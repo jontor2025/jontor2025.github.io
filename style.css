@@ -32,3 +32,14 @@ aside {
     background: greenyellow;
 }
 
+.header{
+    background-color: aqua;
+}
+
+.aside{
+    background-color: blueviolet;
+}
+
+.footer{
+    background-color: crimson;
+}
